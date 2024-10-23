@@ -1,5 +1,3 @@
-Here’s the `README.md` in proper markdown format:
-
 # Comparative Analysis of Air Quality and Water Pollution
 
 This repository contains a Python notebook that analyzes air quality and water pollution across 5,000+ cities worldwide. The analysis explores the relationships between air and water pollution, highlights the most polluted and cleanest countries, and provides insights into urbanization's impact on pollution levels.
